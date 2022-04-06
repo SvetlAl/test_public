@@ -1,6 +1,6 @@
-mainframe 1.1
-interface 1.1
-hardware  1.1
+mainframe 1.0
+interface 1.0
+hardware  1.0
 programm  1.0
 
 design mercury
