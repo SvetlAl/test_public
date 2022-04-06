@@ -1,1 +1,1 @@
-hardware 1.0
+hardware b2.0

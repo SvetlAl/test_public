@@ -1,6 +1,6 @@
 mainframe 1.0
 interface 1.0
-hardware  1.0
+hardware  b2.0
 programm  1.0
 
 design mercury
