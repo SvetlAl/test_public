@@ -1,5 +1,5 @@
 mainframe 1.5
-interface 1.1
+interface 2.0
 hardware  1.1
 programm  1.0
 
