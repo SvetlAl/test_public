@@ -1,0 +1,37 @@
+[version]
+[interface]
+v1.08.05.23.0000
+[description]
+[Russian]
+Интерфейс к управляемому CAN-шлюзу с фильтрацией пакетов, сканером и проигрыванием трейсов.
+[English]
+CAN-gateway interface with scanner, message filter and trace play functions.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
+ 
+ 
+ 
+[version]
+[device]
+v1.08.05.23.0001
+[description]
+[Russian]
+Проигрывание трейсов для 105 не тестировалось.
+[English]
+CAN message injection hasn't been tested on STM32F105.
+[errata]
+[Russian]
+
+[English]
+
+[extra]
+[Russian]
+
+[English]
