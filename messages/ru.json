@@ -1,0 +1,19 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "example_message": "Hello world {username}",
+  "settings_settings_header": "Настройки",
+  "settings_user_profile_header": "Мой профиль",
+  "settings_view_header": "Вид",
+  "settings_language_header": "Язык",
+  "settings_debug_header": "Debug",
+  "settings_help_header": "Помощь",
+  "settings_about_header": "О программе",
+  "main_header_main": "Главная",
+  "main_header_modes": "Режимы",
+  "main_header_vehicle_model": "Модель Авто",
+  "main_header_speedometer": "Спидометр",
+  "main_header_odometer": "Одометр",
+  "main_header_cruise_control": "Круиз-контроль",
+  "main_header_tpms": "Давление шин",
+  "button_save": "Сохранить"
+}

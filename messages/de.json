@@ -1,0 +1,18 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "example_message": "Hello world {username}",
+  "settings_settings_header": "Settings",
+  "settings_user_profile_header": "User Profile",
+  "settings_view_header": "View",
+  "settings_language_header": "Language",
+  "settings_debug_header": "Debug",
+  "settings_help_header": "Help",
+  "settings_about_header": "About",
+  "main_header_main": "Main",
+  "main_header_modes": "Modes",
+  "main_header_vehicle_model": "Vehicle model",
+  "main_header_speedometer": "Speedometer",
+  "main_header_odometer": "Odometer",
+  "main_header_cruise_control": "Cruise control",
+  "main_header_tpms": "TPMS"
+}
