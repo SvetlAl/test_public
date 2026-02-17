@@ -1,0 +1,1 @@
+import"../chunks/Bzak7iHL.js";import{a as o,c as t}from"../chunks/DTIdTzvd.js";import"../chunks/C5jtt077.js";import"../chunks/Cly4po_u.js";var e=t('<main class="fullscreen svelte-ir4hv6"><div class="content-area svelte-ir4hv6"></div></main>');function p(a){var r=e();o(a,r)}export{p as component};
